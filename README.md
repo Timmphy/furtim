@@ -157,4 +157,4 @@ graph TD
     class Evasion,Exit evasionNode;
 ```
 ## Lizenz
-Dieses Projekt ist unter der **[MIT License](LICENSE)** lizenziert.
+This project is under the **[MIT License](LICENSE)**.
